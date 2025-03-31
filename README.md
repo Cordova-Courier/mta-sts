@@ -27,3 +27,5 @@ Current DNS Record
 This repo is paired with the following DNS TXT record at _mta-sts.cordovacourier.com:
 
 Remember to update the id value each time this policy file is modified to notify sending servers of a change.
+
+Cordova Courier https://www.cordovaacourier.com
